@@ -1,0 +1,15 @@
+* {
+  text-align: center;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  margin-top: 50;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+p{
+  text-decoration: underline;
+}
